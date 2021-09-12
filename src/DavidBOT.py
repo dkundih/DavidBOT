@@ -23,7 +23,7 @@ async def _kamen(ctx):
     ]
     odg = random.choice(responses)
     if odg == 'Kamen.':
-     await ctx.send(f'{odg}\n\n=> Neriješeno!<= ')
+     await ctx.send(f'{odg}\n\n=> Neriješeno! <=')
     elif odg == 'Papir.':
       await ctx.send(f'{odg}\n\n=> Oprosti, gubiš. <=')
     elif odg == 'Škare.':
@@ -36,7 +36,7 @@ async def _skare(ctx):
     ]
     odg = random.choice(responses)
     if odg == 'Škare.':
-     await ctx.send(f'{odg}\n\n=> Neriješeno!<= ')
+     await ctx.send(f'{odg}\n\n=> Neriješeno! <=')
     elif odg == 'Kamen.':
       await ctx.send(f'{odg}\n\n=> Oprosti, gubiš. <=')
     elif odg == 'Papir.':
@@ -49,7 +49,7 @@ async def _papir(ctx):
     ]
     odg = random.choice(responses)
     if odg == 'Papir.':
-     await ctx.send(f'{odg}\n\n=> Neriješeno!<= ')
+     await ctx.send(f'{odg}\n\n=> Neriješeno! <=')
     elif odg == 'Kamen.':
       await ctx.send(f'{odg}\n\n=> Oprosti, gubiš. <=')
     elif odg == 'Škare.':
