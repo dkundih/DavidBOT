@@ -6,7 +6,7 @@ from itertools import cycle
 import asyncio
 
 client = commands.Bot(command_prefix='.')
-status = cycle(['pip install alunari', 'pip install UNIN', 'github.com/dkundih', 'pypi.org/user/dkundih'])
+status = cycle(['pip install vandal', 'github.com/dkundih', 'pypi.org/user/dkundih'])
 
 @client.event
 async def on_ready():
