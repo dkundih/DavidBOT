@@ -6,7 +6,7 @@ from itertools import cycle
 import asyncio
 
 client = commands.Bot(command_prefix='.')
-status = cycle(['pip install vandal', 'github.com/dkundih', 'pypi.org/user/dkundih'])
+status = cycle(['pip install duality', 'github.com/dkundih', 'pypi.org/user/dkundih'])
 
 @client.event
 async def on_ready():
@@ -56,9 +56,9 @@ async def _papir(ctx):
     elif odg == 'Škare.':
       await ctx.send(f'{odg}\n\n=> Oprosti, gubiš. <=')
 
-@client.command(aliases=['alunari', 'Alunari'])
+@client.command(aliases=['duality', 'duality'])
 async def _alunari(ctx):
-    await ctx.send('GITHUB: https://github.com/dkundih/alunari\nPYPI: https://pypi.org/user/dkundih/')
+    await ctx.send('GITHUB: https://github.com/dkundih/duality\nPYPI: https://pypi.org/user/dkundih/')
 
 @client.command(aliases=['cooldown', 'Cooldown'])
 async def _cooldown(ctx, seconds, *, msg):
