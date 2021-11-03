@@ -56,7 +56,7 @@ async def _papir(ctx):
     elif odg == 'Škare.':
       await ctx.send(f'{odg}\n\n=> Oprosti, gubiš. <=')
 
-@client.command(aliases=['duality', 'duality'])
+@client.command(aliases=['duality', 'Duality'])
 async def _alunari(ctx):
     await ctx.send('GITHUB: https://github.com/dkundih/duality\nPYPI: https://pypi.org/user/dkundih/')
 
