@@ -1,27 +1,13 @@
 ![duality-header](https://raw.githubusercontent.com/dkundih/duality/main/.logistics/duality.jpg)
 
-**duality** 
+**dualityBOT** 
 
-Data science, Data manipulation and Machine learning package.
+Personal bot used for Discord logistics and fun, published with censored token for educational purposes.
 Use permitted according to the terms of use and conditions set by the attached license.
 
 **duality Package**
 
 Visit https://github.com/dkundih/duality or https://pypi.org/project/duality/ in order to see the main repository of the package.
-
-**Installation**
-
-```sh
-# using pip
-pip install duality
-```
-
-**Import**
-
-```sh
-# for Python environment
-import duality
-```
 
 **For whom is duality made for?**
 
