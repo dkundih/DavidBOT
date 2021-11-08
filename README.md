@@ -14,7 +14,7 @@ Personal bot used for Discord logistics and fun, published with censored token f
 
 **Main project files**
 
-Visit https://github.com/dkundih/duality in order to see the duality project information.
+Visit https://github.com/dkundih/duality or https://pypi.org/project/duality/ in order to see the duality project information.
 
 **For whom is duality made for?**
 
