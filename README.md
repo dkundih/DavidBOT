@@ -12,53 +12,9 @@ dualityBOT
 
 Personal bot used for Discord logistics and fun, published with censored token for educational purposes. Use permitted according to the terms of use and conditions set by the attached license.
 
-**Example of use**
+**Main project files**
 
 Visit https://github.com/dkundih/duality in order to see the duality project information.
-
-**Installation**
-
-```sh
-# using pip
-pip install duality
-```
-**Import**
-
-```sh
-# for Python environment
-import duality
-```
-
-**Help**
-
-```sh
-# package help
-print(help(duality))
-```
-
-```sh
-# module/object help
-print(help(duality.MonteCarlo))
-```
-
-**Meta data**
-
-```sh
-# meta data (individual)
-print(duality.__version__)
-```
-
-```sh
-# all meta data
-print(help(duality.misc._meta))
-```
-
-**Package location**
-
-```sh
-# file location after installation
-print(help(duality.__file__))
-```
 
 **For whom is duality made for?**
 
