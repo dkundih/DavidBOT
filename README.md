@@ -7,14 +7,59 @@
 [![Latest publish](https://img.shields.io/github/last-commit/dkundih/duality?color=178&label=Latest%20publish&style=flat-square)](https://github.com/dkundih/duality)
 [![Format](https://img.shields.io/pypi/format/duality?color=178&label=Format&style=flat-square)](https://pypi.org/project/duality)
 
-dualityBOT
+duality
 =====
 
-Personal bot used for Discord logistics and fun, published with censored token for educational purposes. Use permitted according to the terms of use and conditions set by the attached license.
+Data science, Data manipulation and Machine learning package.
+Use permitted according to the terms of use and conditions set by the attached license.
 
-**Main project files**
+**Example of use**
 
-Visit https://github.com/dkundih/duality or https://pypi.org/project/duality/ in order to see the duality project information.
+Visit https://github.com/dkundih/dualityDemonstrationRepo in order to see the demonstration of use in practical examples.
+
+**Installation**
+
+```sh
+# using pip
+pip install duality
+```
+**Import**
+
+```sh
+# for Python environment
+import duality
+```
+
+**Help**
+
+```sh
+# package help
+print(help(duality))
+```
+
+```sh
+# module/object help
+print(help(duality.MonteCarlo))
+```
+
+**Meta data**
+
+```sh
+# meta data (individual)
+print(duality.__version__)
+```
+
+```sh
+# all meta data
+print(help(duality.misc._meta))
+```
+
+**Package location**
+
+```sh
+# file location after installation
+print(help(duality.__file__))
+```
 
 **For whom is duality made for?**
 
