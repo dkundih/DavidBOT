@@ -57,8 +57,12 @@ async def _papir(ctx):
       await ctx.send(f'{odg}\n\n=> Oprosti, gubiš. <=')
 
 @client.command(aliases=['duality', 'Duality'])
-async def _alunari(ctx):
-    await ctx.send('GITHUB: https://github.com/dkundih/duality\nPYPI: https://pypi.org/user/dkundih/')
+async def _duality(ctx):
+    await ctx.send('GITHUB: https://github.com/dkundih/duality\nPYPI: https://pypi.org/project/duality/')
+
+@client.command(aliases=['dkundih', 'Dkundih'])
+async def _dkundih(ctx):
+    await ctx.send('GITHUB: https://github.com/dkundih/\nPYPI: https://pypi.org/user/dkundih/')
 
 @client.command(aliases=['cooldown', 'Cooldown'])
 async def _cooldown(ctx, seconds, *, msg):
