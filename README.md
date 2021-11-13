@@ -73,17 +73,33 @@ duality disrupts the monotone world of data and gives it meaning.
 
 duality is completely free of charge for both personal and commercial use, but only under the conditions stated in the license. Developing such a complex module isn't easy and takes a lot of time and knowledge in several fields of science such as statistics, programming and domain knowledge, so any donation at https://patreon.com/dkundih or https://www.buymeacoffee.com/dkundih in order to keep duality free is more than welcome.
 
-**Who stands behind duality?**
+**A word from the author!**
 
 The module itself, it's maintenance, updates and stability, logo, videos, promotional materials and everything associated with duality are done by **David Kundih** from **Croatia**.
 
-**See also:**
+<h1 align='center'> Hi! :wave:</h1>
+ 
+<img src='https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/BLUERED_GHiLI.jpg'/>
 
-**David Kundih GitHub**
-https://github.com/dkundih
+<p align='center'>
+My name is <b>David Kundih</b> and I am a Data science & Machine learning Python package developer from 🇭🇷 Croatia, currently being the <b>Management of Logistics Systems master's student</b> at the <b>University North</b>, while also serving as a <b>Demonstrator</b> at the <b>Logistics and Mobility department</b> of the same University with primary focus on the <b>Digital transformation of Logistics and Traffic</b>.
+</p>
+ 
+<h4 align='center'>My latest projects:</h4>
+<p align='center'>
+🎭 <a href="https://github.com/dkundih/duality">duality</p>  
+<p align='center'>
+🏰 <a href="https://github.com/dkundih/unin">unin</a></p>
+</p>
 
-**David Kundih PyPi**
-https://pypi.org/user/dkundih
+<h3 align='center'><i>People shine the brightest when they seek to understand what kind of love sustains them.</i></h3>
 
-**David Kundih ResearchGate**
-https://www.researchgate.net/profile/David-Kundih
+<p align='center'>
+<a href="https://www.instagram.com/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/instagram.jpg"></a>
+<a href="https://www.facebook.com/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/fb.jpg"></a>
+<a href="https://www.linkedin.com/in/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/linkedin.png"></a>
+<a href="https://www.pypi.org/user/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/pypi.jpg"></a>
+<a href="https://www.buymeacoffee.com/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/buymeacoffee.jpg"></a>
+<a href="https://www.patreon.com/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/patreon.jpg"></a>
+<a href="https://www.behance.net/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/behance.jpg"></a>
+<a href="https://www.researchgate.net/profile/David-Kundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/rg.jpg"></a>
