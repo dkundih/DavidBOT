@@ -5,7 +5,7 @@ from discord.ext import commands, tasks
 from itertools import cycle
 import asyncio
 
-client = commands.Bot(command_prefix='.')
+client = commands.Bot(command_prefix = '.')
 status = cycle(['pip install vandal', 'github.com/dkundih', 'pypi.org/user/dkundih'])
 
 @client.event
@@ -13,7 +13,7 @@ async def on_ready():
     change_status.start()
     print('Spreman.')
 
-@tasks.loop(seconds= 5)
+@tasks.loop(seconds = 5)
 async def change_status():
   await client.change_presence(activity=discord.Game(next(status)))
 
